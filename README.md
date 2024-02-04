@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-179287?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-9999FF?style=flat&logo=Slack&logoColor=white"/> 
 
 
-###  🌈 Career
+###  🌈 Education
 * 삼성 청년 SW 아카데미 (SSAFY) 11th : 2024.01 ~
 * 숭실대학교 IT대학 글로벌미디어학부 : 2018.03 ~ 2024.02
 ### ✏ BaekJoon
